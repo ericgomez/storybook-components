@@ -1,7 +1,7 @@
 import { MyLabel } from '../../components/MyLabel';
 
 export default {
-  title: 'Example/MyLabel',
+  title: 'UI/MyLabel',
   component: MyLabel,
 };
 
