@@ -28,7 +28,7 @@
   },
   "release": {
     "branches": [
-      "github-actions"
+      "main"
     ]
   },
   "files": [
