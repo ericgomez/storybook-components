@@ -10,7 +10,7 @@
     "type": "git"
   },
   "peerDependencies": {
-    "react": ">=16.0.0",
+    "react": ">=16.0.0"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
